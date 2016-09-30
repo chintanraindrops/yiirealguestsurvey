@@ -1,0 +1,5 @@
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?name=driver's+edge+lebanon+road+frisco+tx&key=AIzaSyDEdoQv789Hh-UqnfjFiA9wLOwmcBq8J-Y
+
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522,151.1957362&radius=500&type=restaurant&name=donalds&key=AIzaSyDEdoQv789Hh-UqnfjFiA9wLOwmcBq8J-Y
+
+https://maps.googleapis.com/maps/api/place/textsearch/json?query=paldi&key=AIzaSyDEdoQv789Hh-UqnfjFiA9wLOwmcBq8J-Y

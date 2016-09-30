@@ -1,0 +1,282 @@
+a:8:{s:6:"config";a:5:{s:10:"phpVersion";s:30:"5.6.25-2+deb.sury.org~xenial+1";s:10:"yiiVersion";s:5:"2.0.9";s:11:"application";a:4:{s:3:"yii";s:5:"2.0.9";s:4:"name";s:22:"Real Guest User Survey";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:4:{s:7:"version";s:30:"5.6.25-2+deb.sury.org~xenial+1";s:6:"xdebug";b:1;s:3:"apc";b:0;s:8:"memcache";b:0;}s:10:"extensions";a:9:{s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:50:"/var/www/yii/yiiplus/vendor/yiisoft/yii2-bootstrap";}}s:23:"yiisoft/yii2-httpclient";a:3:{s:4:"name";s:23:"yiisoft/yii2-httpclient";s:7:"version";s:7:"2.0.1.0";s:5:"alias";a:1:{s:15:"@yii/httpclient";s:51:"/var/www/yii/yiiplus/vendor/yiisoft/yii2-httpclient";}}s:23:"yiisoft/yii2-authclient";a:3:{s:4:"name";s:23:"yiisoft/yii2-authclient";s:7:"version";s:7:"2.1.1.0";s:5:"alias";a:1:{s:15:"@yii/authclient";s:51:"/var/www/yii/yiiplus/vendor/yiisoft/yii2-authclient";}}s:18:"dektrium/yii2-user";a:4:{s:4:"name";s:18:"dektrium/yii2-user";s:7:"version";s:7:"0.9.9.0";s:5:"alias";a:1:{s:14:"@dektrium/user";s:46:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user";}s:9:"bootstrap";s:23:"dektrium\user\Bootstrap";}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:44:"/var/www/yii/yiiplus/vendor/yiisoft/yii2-gii";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:46:"/var/www/yii/yiiplus/vendor/yiisoft/yii2-debug";}}s:24:"yiisoft/yii2-codeception";a:3:{s:4:"name";s:24:"yiisoft/yii2-codeception";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:16:"@yii/codeception";s:52:"/var/www/yii/yiiplus/vendor/yiisoft/yii2-codeception";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:46:"/var/www/yii/yiiplus/vendor/yiisoft/yii2-faker";}}s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:52:"/var/www/yii/yiiplus/vendor/yiisoft/yii2-swiftmailer";}}}}s:7:"request";a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:13:{s:4:"host";s:12:"frontend.dev";s:10:"connection";s:10:"keep-alive";s:14:"content-length";s:3:"236";s:6:"accept";s:46:"application/json, text/javascript, */*; q=0.01";s:6:"origin";s:19:"http://frontend.dev";s:12:"x-csrf-token";s:56:"NTA4Y2Y4NFkEZnwNC1ljbmJBXwhVZ3ZhBQJnAAx6eW0Fc2BUF0gBLg==";s:10:"user-agent";s:105:"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36";s:16:"x-requested-with";s:14:"XMLHttpRequest";s:12:"content-type";s:48:"application/x-www-form-urlencoded; charset=UTF-8";s:7:"referer";s:88:"http://frontend.dev/user/profile/feedbackthankyou?token=aMT37WMgGqkQ3cj7jEDYl1nuMD9an97P";s:15:"accept-encoding";s:13:"gzip, deflate";s:15:"accept-language";s:26:"en-GB,en-US;q=0.8,en;q=0.6";s:6:"cookie";s:232:"FRONTENDSESSID=h78k5c3mg2aburtdem2j15a5l3; _frontendCSRF=1d846c5b23138ef1f50c31d590b5331832a1f6ec9abfaa622d875fa177d52243a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_frontendCSRF%22%3Bi%3A1%3Bs%3A32%3A%221VDnmaW7Wqgk3_B802_cjBM40CX7qp5w%22%3B%7D";}s:15:"responseHeaders";a:4:{s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"Pragma";s:8:"no-cache";s:12:"Content-Type";s:31:"application/json; charset=UTF-8";}s:5:"route";s:29:"user/profile/feedbackthankyou";s:6:"action";s:69:"dektrium\user\controllers\ProfileController::actionFeedbackthankyou()";s:12:"actionParams";a:1:{i:0;s:32:"aMT37WMgGqkQ3cj7jEDYl1nuMD9an97P";}s:11:"requestBody";a:3:{s:12:"Content Type";s:48:"application/x-www-form-urlencoded; charset=UTF-8";s:3:"Raw";s:236:"_frontendCSRF=NTA4Y2Y4NFkEZnwNC1ljbmJBXwhVZ3ZhBQJnAAx6eW0Fc2BUF0gBLg%3D%3D&Feedback%5Bfrom_firstname%5D=Kazaiki+Van&Feedback%5Bfrom_email%5D=kazaikivan%40mailinator.com&Feedback%5Bfrom_mobile%5D=&feedback_id=42&ajax=feedbackthankyouform";s:17:"Decoded to Params";a:4:{s:13:"_frontendCSRF";s:56:"NTA4Y2Y4NFkEZnwNC1ljbmJBXwhVZ3ZhBQJnAAx6eW0Fc2BUF0gBLg==";s:8:"Feedback";a:3:{s:14:"from_firstname";s:11:"Kazaiki Van";s:10:"from_email";s:25:"kazaikivan@mailinator.com";s:11:"from_mobile";s:0:"";}s:11:"feedback_id";s:2:"42";s:4:"ajax";s:20:"feedbackthankyouform";}}s:6:"SERVER";a:39:{s:15:"REDIRECT_STATUS";s:3:"200";s:9:"HTTP_HOST";s:12:"frontend.dev";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:14:"CONTENT_LENGTH";s:3:"236";s:11:"HTTP_ACCEPT";s:46:"application/json, text/javascript, */*; q=0.01";s:11:"HTTP_ORIGIN";s:19:"http://frontend.dev";s:17:"HTTP_X_CSRF_TOKEN";s:56:"NTA4Y2Y4NFkEZnwNC1ljbmJBXwhVZ3ZhBQJnAAx6eW0Fc2BUF0gBLg==";s:15:"HTTP_USER_AGENT";s:105:"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36";s:21:"HTTP_X_REQUESTED_WITH";s:14:"XMLHttpRequest";s:12:"CONTENT_TYPE";s:48:"application/x-www-form-urlencoded; charset=UTF-8";s:12:"HTTP_REFERER";s:88:"http://frontend.dev/user/profile/feedbackthankyou?token=aMT37WMgGqkQ3cj7jEDYl1nuMD9an97P";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:20:"HTTP_ACCEPT_LANGUAGE";s:26:"en-GB,en-US;q=0.8,en;q=0.6";s:11:"HTTP_COOKIE";s:232:"FRONTENDSESSID=h78k5c3mg2aburtdem2j15a5l3; _frontendCSRF=1d846c5b23138ef1f50c31d590b5331832a1f6ec9abfaa622d875fa177d52243a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_frontendCSRF%22%3Bi%3A1%3Bs%3A32%3A%221VDnmaW7Wqgk3_B802_cjBM40CX7qp5w%22%3B%7D";s:4:"PATH";s:60:"/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin";s:16:"SERVER_SIGNATURE";s:73:"<address>Apache/2.4.18 (Ubuntu) Server at frontend.dev Port 80</address>
+";s:15:"SERVER_SOFTWARE";s:22:"Apache/2.4.18 (Ubuntu)";s:11:"SERVER_NAME";s:12:"frontend.dev";s:11:"SERVER_ADDR";s:12:"192.168.1.28";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:12:"192.168.1.28";s:13:"DOCUMENT_ROOT";s:34:"/var/www/yii/yiiplus/frontend/web/";s:14:"REQUEST_SCHEME";s:4:"http";s:14:"CONTEXT_PREFIX";s:0:"";s:21:"CONTEXT_DOCUMENT_ROOT";s:34:"/var/www/yii/yiiplus/frontend/web/";s:12:"SERVER_ADMIN";s:19:"webmaster@localhost";s:15:"SCRIPT_FILENAME";s:43:"/var/www/yii/yiiplus/frontend/web/index.php";s:11:"REMOTE_PORT";s:5:"34474";s:12:"REDIRECT_URL";s:30:"/user/profile/feedbackthankyou";s:21:"REDIRECT_QUERY_STRING";s:38:"token=aMT37WMgGqkQ3cj7jEDYl1nuMD9an97P";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:4:"POST";s:12:"QUERY_STRING";s:38:"token=aMT37WMgGqkQ3cj7jEDYl1nuMD9an97P";s:11:"REQUEST_URI";s:69:"/user/profile/feedbackthankyou?token=aMT37WMgGqkQ3cj7jEDYl1nuMD9an97P";s:11:"SCRIPT_NAME";s:10:"/index.php";s:8:"PHP_SELF";s:10:"/index.php";s:18:"REQUEST_TIME_FLOAT";d:1475153306.3629999;s:12:"REQUEST_TIME";i:1475153306;}s:3:"GET";a:1:{s:5:"token";s:32:"aMT37WMgGqkQ3cj7jEDYl1nuMD9an97P";}s:4:"POST";a:4:{s:13:"_frontendCSRF";s:56:"NTA4Y2Y4NFkEZnwNC1ljbmJBXwhVZ3ZhBQJnAAx6eW0Fc2BUF0gBLg==";s:8:"Feedback";a:3:{s:14:"from_firstname";s:11:"Kazaiki Van";s:10:"from_email";s:25:"kazaikivan@mailinator.com";s:11:"from_mobile";s:0:"";}s:11:"feedback_id";s:2:"42";s:4:"ajax";s:20:"feedbackthankyouform";}s:6:"COOKIE";a:2:{s:14:"FRONTENDSESSID";s:26:"h78k5c3mg2aburtdem2j15a5l3";s:13:"_frontendCSRF";s:139:"1d846c5b23138ef1f50c31d590b5331832a1f6ec9abfaa622d875fa177d52243a:2:{i:0;s:13:"_frontendCSRF";i:1;s:32:"1VDnmaW7Wqgk3_B802_cjBM40CX7qp5w";}";}s:5:"FILES";a:0:{}s:7:"SESSION";a:1:{s:7:"__flash";a:0:{}}}s:3:"log";a:1:{s:8:"messages";a:27:{i:0;a:5:{i:0;s:51:"Bootstrap with dektrium\user\Bootstrap::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1475153306.3676391;i:4;a:0:{}}i:1;a:5:{i:0;s:20:"Loading module: user";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1475153306.3676591;i:4;a:0:{}}i:2;a:5:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1475153306.3700819;i:4;a:0:{}}i:3;a:5:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1475153306.370122;i:4;a:0:{}}i:4;a:5:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1475153306.370888;i:4;a:0:{}}i:5;a:5:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1475153306.371294;i:4;a:0:{}}i:6;a:5:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1475153306.371429;i:4;a:0:{}}i:7;a:5:{i:0;s:55:"No matching URL rules. Using default URL parsing logic.";i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1475153306.3719399;i:4;a:0:{}}i:8;a:5:{i:0;s:48:"Route requested: 'user/profile/feedbackthankyou'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1475153306.3719749;i:4;a:0:{}}i:9;a:5:{i:0;s:43:"Route to run: user/profile/feedbackthankyou";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1475153306.372365;i:4;a:0:{}}i:10;a:5:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1475153306.3729529;i:4;a:0:{}}i:11;a:5:{i:0;s:85:"Running action: dektrium\user\controllers\ProfileController::actionFeedbackthankyou()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1475153306.3734679;i:4;a:0:{}}i:12;a:5:{i:0;s:58:"Opening DB connection: mysql:host=localhost;dbname=yiiplus";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1475153306.3743241;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:524;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:15;a:5:{i:0;s:78:"SELECT * FROM `feedback` WHERE `from_token`='aMT37WMgGqkQ3cj7jEDYl1nuMD9an97P'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3752401;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:524;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:18;a:5:{i:0;s:33:"SHOW FULL COLUMNS FROM `feedback`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3764291;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:524;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:21;a:5:{i:0;s:603:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'feedback' AND kcu.table_name = 'feedback'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.378324;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:524;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:24;a:5:{i:0;s:43:"SELECT * FROM `profile` WHERE `user_id`=101";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3795719;i:4;a:2:{i:0;a:5:{s:4:"file";s:57:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/Finder.php";s:4:"line";i:235;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:530;s:8:"function";s:15:"findProfileById";s:5:"class";s:20:"dektrium\user\Finder";s:4:"type";s:2:"->";}}}i:27;a:5:{i:0;s:32:"SHOW FULL COLUMNS FROM `profile`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.380358;i:4;a:2:{i:0;a:5:{s:4:"file";s:57:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/Finder.php";s:4:"line";i:235;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:530;s:8:"function";s:15:"findProfileById";s:5:"class";s:20:"dektrium\user\Finder";s:4:"type";s:2:"->";}}}i:30;a:5:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'profile' AND kcu.table_name = 'profile'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.38274;i:4;a:2:{i:0;a:5:{s:4:"file";s:57:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/Finder.php";s:4:"line";i:235;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:530;s:8:"function";s:15:"findProfileById";s:5:"class";s:20:"dektrium\user\Finder";s:4:"type";s:2:"->";}}}i:33;a:5:{i:0;s:47:"SELECT * FROM `business_location` WHERE `id`=12";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3841751;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:531;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:36;a:5:{i:0;s:42:"SHOW FULL COLUMNS FROM `business_location`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.384937;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:531;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:39;a:5:{i:0;s:621:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'business_location' AND kcu.table_name = 'business_location'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3868999;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:531;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:42;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3894489;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:533;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:45;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3915601;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:533;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:48;a:5:{i:0;s:35:"SELECT * FROM `user` WHERE `id`=101";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3943989;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:533;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:51;a:5:{i:0;s:43:"SELECT * FROM `profile` WHERE `user_id`=101";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.396713;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:534;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:54;a:5:{i:0;s:40:"SELECT * FROM `feedback` WHERE `id`='42'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.399416;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:539;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}}}s:9:"profiling";a:3:{s:6:"memory";i:3550360;s:4:"time";d:0.039388895034790039;s:8:"messages";a:30:{i:13;a:5:{i:0;s:58:"Opening DB connection: mysql:host=localhost;dbname=yiiplus";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1475153306.374387;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:524;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:14;a:5:{i:0;s:58:"Opening DB connection: mysql:host=localhost;dbname=yiiplus";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1475153306.3750701;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:524;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:16;a:5:{i:0;s:78:"SELECT * FROM `feedback` WHERE `from_token`='aMT37WMgGqkQ3cj7jEDYl1nuMD9an97P'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3754399;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:524;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:17;a:5:{i:0;s:78:"SELECT * FROM `feedback` WHERE `from_token`='aMT37WMgGqkQ3cj7jEDYl1nuMD9an97P'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.376049;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:524;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:19;a:5:{i:0;s:33:"SHOW FULL COLUMNS FROM `feedback`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.376544;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:524;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:20;a:5:{i:0;s:33:"SHOW FULL COLUMNS FROM `feedback`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.377528;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:524;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:22;a:5:{i:0;s:603:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'feedback' AND kcu.table_name = 'feedback'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3783979;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:524;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:23;a:5:{i:0;s:603:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'feedback' AND kcu.table_name = 'feedback'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3789899;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:524;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:25;a:5:{i:0;s:43:"SELECT * FROM `profile` WHERE `user_id`=101";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3796539;i:4;a:2:{i:0;a:5:{s:4:"file";s:57:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/Finder.php";s:4:"line";i:235;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:530;s:8:"function";s:15:"findProfileById";s:5:"class";s:20:"dektrium\user\Finder";s:4:"type";s:2:"->";}}}i:26;a:5:{i:0;s:43:"SELECT * FROM `profile` WHERE `user_id`=101";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3801329;i:4;a:2:{i:0;a:5:{s:4:"file";s:57:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/Finder.php";s:4:"line";i:235;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:530;s:8:"function";s:15:"findProfileById";s:5:"class";s:20:"dektrium\user\Finder";s:4:"type";s:2:"->";}}}i:28;a:5:{i:0;s:32:"SHOW FULL COLUMNS FROM `profile`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3804541;i:4;a:2:{i:0;a:5:{s:4:"file";s:57:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/Finder.php";s:4:"line";i:235;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:530;s:8:"function";s:15:"findProfileById";s:5:"class";s:20:"dektrium\user\Finder";s:4:"type";s:2:"->";}}}i:29;a:5:{i:0;s:32:"SHOW FULL COLUMNS FROM `profile`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3812931;i:4;a:2:{i:0;a:5:{s:4:"file";s:57:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/Finder.php";s:4:"line";i:235;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:530;s:8:"function";s:15:"findProfileById";s:5:"class";s:20:"dektrium\user\Finder";s:4:"type";s:2:"->";}}}i:31;a:5:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'profile' AND kcu.table_name = 'profile'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3828321;i:4;a:2:{i:0;a:5:{s:4:"file";s:57:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/Finder.php";s:4:"line";i:235;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:530;s:8:"function";s:15:"findProfileById";s:5:"class";s:20:"dektrium\user\Finder";s:4:"type";s:2:"->";}}}i:32;a:5:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'profile' AND kcu.table_name = 'profile'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3834629;i:4;a:2:{i:0;a:5:{s:4:"file";s:57:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/Finder.php";s:4:"line";i:235;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:530;s:8:"function";s:15:"findProfileById";s:5:"class";s:20:"dektrium\user\Finder";s:4:"type";s:2:"->";}}}i:34;a:5:{i:0;s:47:"SELECT * FROM `business_location` WHERE `id`=12";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3842559;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:531;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:35;a:5:{i:0;s:47:"SELECT * FROM `business_location` WHERE `id`=12";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3847179;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:531;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:37;a:5:{i:0;s:42:"SHOW FULL COLUMNS FROM `business_location`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3850269;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:531;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:38;a:5:{i:0;s:42:"SHOW FULL COLUMNS FROM `business_location`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3857911;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:531;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:40;a:5:{i:0;s:621:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'business_location' AND kcu.table_name = 'business_location'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3869891;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:531;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:41;a:5:{i:0;s:621:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'business_location' AND kcu.table_name = 'business_location'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3880911;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:531;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:43;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3895781;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:533;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:44;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.390497;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:533;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:46;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3916459;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:533;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:47;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.392422;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:533;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:49;a:5:{i:0;s:35:"SELECT * FROM `user` WHERE `id`=101";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3945429;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:533;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:50;a:5:{i:0;s:35:"SELECT * FROM `user` WHERE `id`=101";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3954;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:533;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:52;a:5:{i:0;s:43:"SELECT * FROM `profile` WHERE `user_id`=101";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.396805;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:534;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:53;a:5:{i:0;s:43:"SELECT * FROM `profile` WHERE `user_id`=101";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3973789;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:534;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:55;a:5:{i:0;s:40:"SELECT * FROM `feedback` WHERE `id`='42'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3995531;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:539;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:56;a:5:{i:0;s:40:"SELECT * FROM `feedback` WHERE `id`='42'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.400645;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:539;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}}}s:2:"db";a:1:{s:8:"messages";a:28:{i:16;a:5:{i:0;s:78:"SELECT * FROM `feedback` WHERE `from_token`='aMT37WMgGqkQ3cj7jEDYl1nuMD9an97P'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3754399;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:524;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:17;a:5:{i:0;s:78:"SELECT * FROM `feedback` WHERE `from_token`='aMT37WMgGqkQ3cj7jEDYl1nuMD9an97P'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.376049;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:524;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:19;a:5:{i:0;s:33:"SHOW FULL COLUMNS FROM `feedback`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.376544;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:524;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:20;a:5:{i:0;s:33:"SHOW FULL COLUMNS FROM `feedback`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.377528;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:524;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:22;a:5:{i:0;s:603:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'feedback' AND kcu.table_name = 'feedback'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3783979;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:524;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:23;a:5:{i:0;s:603:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'feedback' AND kcu.table_name = 'feedback'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3789899;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:524;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:25;a:5:{i:0;s:43:"SELECT * FROM `profile` WHERE `user_id`=101";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3796539;i:4;a:2:{i:0;a:5:{s:4:"file";s:57:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/Finder.php";s:4:"line";i:235;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:530;s:8:"function";s:15:"findProfileById";s:5:"class";s:20:"dektrium\user\Finder";s:4:"type";s:2:"->";}}}i:26;a:5:{i:0;s:43:"SELECT * FROM `profile` WHERE `user_id`=101";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3801329;i:4;a:2:{i:0;a:5:{s:4:"file";s:57:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/Finder.php";s:4:"line";i:235;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:530;s:8:"function";s:15:"findProfileById";s:5:"class";s:20:"dektrium\user\Finder";s:4:"type";s:2:"->";}}}i:28;a:5:{i:0;s:32:"SHOW FULL COLUMNS FROM `profile`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3804541;i:4;a:2:{i:0;a:5:{s:4:"file";s:57:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/Finder.php";s:4:"line";i:235;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:530;s:8:"function";s:15:"findProfileById";s:5:"class";s:20:"dektrium\user\Finder";s:4:"type";s:2:"->";}}}i:29;a:5:{i:0;s:32:"SHOW FULL COLUMNS FROM `profile`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3812931;i:4;a:2:{i:0;a:5:{s:4:"file";s:57:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/Finder.php";s:4:"line";i:235;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:530;s:8:"function";s:15:"findProfileById";s:5:"class";s:20:"dektrium\user\Finder";s:4:"type";s:2:"->";}}}i:31;a:5:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'profile' AND kcu.table_name = 'profile'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3828321;i:4;a:2:{i:0;a:5:{s:4:"file";s:57:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/Finder.php";s:4:"line";i:235;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:530;s:8:"function";s:15:"findProfileById";s:5:"class";s:20:"dektrium\user\Finder";s:4:"type";s:2:"->";}}}i:32;a:5:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'profile' AND kcu.table_name = 'profile'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3834629;i:4;a:2:{i:0;a:5:{s:4:"file";s:57:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/Finder.php";s:4:"line";i:235;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:530;s:8:"function";s:15:"findProfileById";s:5:"class";s:20:"dektrium\user\Finder";s:4:"type";s:2:"->";}}}i:34;a:5:{i:0;s:47:"SELECT * FROM `business_location` WHERE `id`=12";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3842559;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:531;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:35;a:5:{i:0;s:47:"SELECT * FROM `business_location` WHERE `id`=12";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3847179;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:531;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:37;a:5:{i:0;s:42:"SHOW FULL COLUMNS FROM `business_location`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3850269;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:531;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:38;a:5:{i:0;s:42:"SHOW FULL COLUMNS FROM `business_location`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3857911;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:531;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:40;a:5:{i:0;s:621:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'business_location' AND kcu.table_name = 'business_location'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3869891;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:531;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:41;a:5:{i:0;s:621:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'business_location' AND kcu.table_name = 'business_location'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3880911;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:531;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:43;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3895781;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:533;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:44;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.390497;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:533;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:46;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3916459;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:533;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:47;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.392422;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:533;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:49;a:5:{i:0;s:35:"SELECT * FROM `user` WHERE `id`=101";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3945429;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:533;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:50;a:5:{i:0;s:35:"SELECT * FROM `user` WHERE `id`=101";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3954;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:533;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:52;a:5:{i:0;s:43:"SELECT * FROM `profile` WHERE `user_id`=101";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.396805;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:534;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:53;a:5:{i:0;s:43:"SELECT * FROM `profile` WHERE `user_id`=101";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3973789;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:534;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:55;a:5:{i:0;s:40:"SELECT * FROM `feedback` WHERE `id`='42'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.3995531;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:539;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:56;a:5:{i:0;s:40:"SELECT * FROM `feedback` WHERE `id`='42'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475153306.400645;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/var/www/yii/yiiplus/vendor/dektrium/yii2-user/controllers/ProfileController.php";s:4:"line";i:539;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}}}s:6:"assets";a:0:{}s:4:"mail";a:0:{}s:7:"summary";a:9:{s:3:"tag";s:13:"57ed0d9a5a958";s:3:"url";s:88:"http://frontend.dev/user/profile/feedbackthankyou?token=aMT37WMgGqkQ3cj7jEDYl1nuMD9an97P";s:4:"ajax";i:1;s:6:"method";s:4:"POST";s:2:"ip";s:12:"192.168.1.28";s:4:"time";i:1475153306;s:10:"statusCode";i:200;s:8:"sqlCount";i:14;s:9:"mailCount";i:0;}}
